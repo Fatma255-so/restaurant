@@ -29,7 +29,16 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/vendor/modernizr-2.6.2.min.js",
+              "src/assets/js/vendor/jquery-1.10.2.min.js",
+              "src/assets/js/jquery.nav.js",
+              "src/assets/js/jquery.sticky.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/wow.min.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
